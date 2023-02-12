@@ -1,0 +1,37 @@
+#navlogo {
+	justify-content: center;
+	padding-left: 44em;
+	padding-top: 3em;
+}
+
+#globalnav {
+	font-size: 2em;
+	color: black;
+}
+
+H1 {
+	text-align: center;
+	color: black;
+	padding-bottom: 1em;
+	}
+H2 {
+	padding-top: 2em;
+	padding-bottom: 1em;
+	text-align: center;
+}
+
+#biocard {
+	padding-left: 5em;
+}
+#allcards {
+	padding-right: 5em;
+	Padding-left: 5em;
+	margin: ;
+}
+.bottom-left {
+  position: relative;
+  bottom: 85px;
+  left: 16px;
+  font-size: 4em;
+  color: white;
+  }
